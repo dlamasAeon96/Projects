@@ -1,3 +1,3 @@
 # Projects
 Projects
-// Classes and objects project
+// Projects for programming classes
